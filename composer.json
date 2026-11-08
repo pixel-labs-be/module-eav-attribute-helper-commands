@@ -1,5 +1,5 @@
 {
-  "name": "perfcom/magento2-eav-attribute-helper-commands",
+  "name": "pixel-labs/magento2-eav-attribute-helper-commands",
   "description": "CLI commands to help with EAV attributes",
   "type": "magento2-module",
   "require": {

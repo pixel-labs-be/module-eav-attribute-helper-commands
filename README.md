@@ -6,7 +6,7 @@ A Magento 2 module that provides CLI commands for managing EAV attributes.
 ## Installation
 
 ```bash
-composer require perfcom/magento2-eav-attribute-helper-commands
+composer require pixel-labs/magento2-eav-attribute-helper-commands
 ```
 
 ## Usage
